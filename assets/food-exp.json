@@ -1,0 +1,4395 @@
+[
+  {
+    "title": "Mushrooms",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": ""
+        }
+      },
+      {
+        "name": "Fresh Whole Mushrooms",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Fresh Sliced Mushrooms",
+        "expiration": {
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "Cooked Mushrooms",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": ""
+        }
+      },
+      {
+        "name": "Dried Mushrooms",
+        "expiration": {
+          "Fridge": "2-3 Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Onions",
+    "subItems": [
+      {
+        "name": "Fresh Whole Onions",
+        "expiration": {
+          "Pantry": "4-6 Weeks",
+          "Fridge": "1-2 Months"
+        }
+      },
+      {
+        "name": "Fresh Chopped Onions",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1 Week"
+        }
+      },
+      {
+        "name": "Fresh Whole Scallions",
+        "expiration": {
+          "Pantry": "1-2 Days",
+          "Fridge": "1-2 Weeks"
+        }
+      },
+      {
+        "name": "Frozen Onions",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "6-8 Months in Freezer"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pickles",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry (Unopened)": "Past Printed Date",
+          "Fridge (Opened)": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Pickles",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "1-2 Years"
+        }
+      },
+      {
+        "name": "Pickled Peppers",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "1-2 Years"
+        }
+      },
+      {
+        "name": "Pickled Corn",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "1-2 Years"
+        }
+      },
+      {
+        "name": "Sauerkraut (pickled cabbage) ",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "1-2 Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Squash",
+    "subItems": [
+      {
+        "name": "Fresh Summer Squash",
+        "expiration": {
+          "Pantry": "1-5 Days",
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "Zucchini",
+        "expiration": {
+          "Pantry": "3-5 Days",
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "Crooked Neck Squash",
+        "expiration": {
+          "Pantry": "3-5 Days",
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "Prepared (Cooked) Squash",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "7 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cucumbers",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Cucumbers (Whole)  ",
+        "expiration": {
+          "Fridge": "1 Week"
+        }
+      },
+      {
+        "name": "English Cucumbers",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Japanese Cucumbers",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Persian Cucumbers",
+        "expiration": {
+          "Fridge": "1 Week"
+        }
+      },
+      {
+        "name": "Pickling Cukes",
+        "expiration": {
+          "Fridge": "1-2 Weeks"
+        }
+      },
+      {
+        "name": "Sliced Cucumbers",
+        "expiration": {
+          "Fridge": "1-2 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Potatoes",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Date",
+          "Fridge": " Past Date",
+          "Freezer": " Past Date"
+        }
+      },
+      {
+        "name": "Russet or White Potatoes",
+        "expiration": {
+          "Pantry": "3-5 Weeks",
+          "Fridge": "3-4 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Yukon Gold Potatoes",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Fridge": "2-3 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Red or New Potatoes",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Fridge": "2-3 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Fingerlings",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Fridge": "2-3 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Sweet Potatoes",
+        "expiration": {
+          "Pantry": "3-5 Weeks",
+          "Fridge": "2-3 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Sliced Potatoes or French Fries  ",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Cooked Potatoes",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Baked Potatoes",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Mashed Potatoes",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "4-6 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Instant Dry Potato Packages",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "4-5 Days",
+          "Freezer": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pumpkin",
+    "subItems": [
+      {
+        "name": "Fresh Pumpkins",
+        "expiration": {
+          "Pantry": "2-3 Months",
+          "Fridge": "3-5 Months"
+        }
+      },
+      {
+        "name": "Canned Pumpkin",
+        "expiration": {
+          "Pantry": "1-2 Years",
+          "Fridge": "1-2 Years"
+        }
+      },
+      {
+        "name": "Fresh Cut Pumpkins",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Fridge": "6-8 Months"
+        }
+      },
+      {
+        "name": "Cooked Pumpkin",
+        "expiration": {
+          "Pantry": "7 Days",
+          "Fridge": "6-8 Months"
+        }
+      },
+      {
+        "name": "Canned Pumpkin",
+        "expiration": {
+          "Pantry": "7 Days",
+          "Fridge": "3-5 Months"
+        }
+      },
+      {
+        "name": "Pumpkin Pie",
+        "expiration": {
+          "Pantry": "3-4 Days",
+          "Fridge": "4-6 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Salad",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Packaged Lettuce",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Caesar Salad (Undressed)  ",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Green Salad (Dressed)  ",
+        "expiration": {
+          "Fridge": "1-5 Days"
+        }
+      },
+      {
+        "name": "Egg Salad",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Chicken Salad",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Tuna Salad",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Potato Salad",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Macaroni Salad",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Pasta Salad (Non-mayonnaise)  ",
+        "expiration": {
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "Fresh Fruit Salad",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Garlic",
+    "subItems": [
+      {
+        "name": "Fresh (Whole) Garlic",
+        "expiration": {
+          "Pantry": "3-6 Months",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Fresh Garlic Cloves",
+        "expiration": {
+          "Pantry": "1-2 Months",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Fresh Chopped Garlic",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1 Week"
+        }
+      },
+      {
+        "name": "Prepared Jar of Chopped Garlic",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "2-3 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lettuce",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Head Iceburg Lettuce",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Head Romaine Lettuce",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Head Leaf Lettuce",
+        "expiration": {
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "Head Butter Lettuce",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Chopped or Loose Lettuce",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Fresh Express Lettuce",
+        "expiration": {
+          "Fridge": "3-5 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Celery",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh (Whole) Celery",
+        "expiration": {
+          "Fridge": "3-4 Weeks"
+        }
+      },
+      {
+        "name": "Celery Packages",
+        "expiration": {
+          "Fridge": "2-3 Days"
+        }
+      },
+      {
+        "name": "Cooked Celery",
+        "expiration": {
+          "Fridge": "1 Week"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Carrots",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Carrots (Whole)  ",
+        "expiration": {
+          "Fridge": "4-5 Weeks"
+        }
+      },
+      {
+        "name": "Baby Carrots",
+        "expiration": {
+          "Fridge": "3-4 Weeks"
+        }
+      },
+      {
+        "name": "Cooked Carrots",
+        "expiration": {
+          "Fridge": "1 Week"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Broccoli",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": ""
+        }
+      },
+      {
+        "name": "Fresh Broccoli",
+        "expiration": {
+          "Fridge": "7-14 Days"
+        }
+      },
+      {
+        "name": "Cooked Broccoli",
+        "expiration": {
+          "Fridge": "7-9 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Jerky",
+    "subItems": [
+      {
+        "name": "Beef jerky",
+        "expiration": {
+          "Pantry": "1-2 Years"
+        }
+      },
+      {
+        "name": "Turkey jerky",
+        "expiration": {
+          "Pantry": "1-2 Years"
+        }
+      },
+      {
+        "name": "Homemade jerky",
+        "expiration": {
+          "Pantry": "2-3 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Deli Meat",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Deli Meats",
+        "expiration": {
+          "Fridge": "5-6 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Pre-packaged Deli Meats",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Bologna",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "2-3 Months"
+        }
+      },
+      {
+        "name": "Salami (hard)*  ",
+        "expiration": {
+          "Fridge": "3-4 Weeks",
+          "Freezer": "2-3 Months"
+        }
+      },
+      {
+        "name": "Fresh Deli Meats",
+        "expiration": {
+          "Fridge": "5-6 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Packaged Lunch Meat",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Bologna",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "1-2 Months"
+        }
+      },
+      {
+        "name": "Salami (hard)*  ",
+        "expiration": {
+          "Fridge": "2-3 Weeks",
+          "Freezer": "2-3 Months"
+        }
+      },
+      {
+        "name": "Pepperoni",
+        "expiration": {
+          "Fridge": "2-3 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sushi",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "After Preparation"
+        }
+      },
+      {
+        "name": "Sushi",
+        "expiration": {
+          "Fridge": "24 Hours"
+        }
+      },
+      {
+        "name": "Sashimi",
+        "expiration": {
+          "Fridge": "24 Hours"
+        }
+      },
+      {
+        "name": "Poke",
+        "expiration": {
+          "Fridge": "24 Hours"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Peanut Butter",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Smooth Peanut Butter",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Crunchy Peanut Butter",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Natural Peanut Butter",
+        "expiration": {
+          "Pantry": "2-3 Months",
+          "Fridge": "3-6 Months"
+        }
+      },
+      {
+        "name": "Homemade Peanut Butter",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "3-6 Months"
+        }
+      },
+      {
+        "name": "Natural Peanut Butter",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-6 Months"
+        }
+      },
+      {
+        "name": "Smooth Peanut Butter",
+        "expiration": {
+          "Pantry": "3-4 Months",
+          "Fridge": "6-8 Months"
+        }
+      },
+      {
+        "name": "Crunchy Peanut Butter",
+        "expiration": {
+          "Pantry": "3-4 Months",
+          "Fridge": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Fish",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Salmon",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Cod",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Halibut",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Ono",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Tilapia",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Catfish",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Cooked Fish",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-6 Days",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Smoked Salmon",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-7 Days",
+          "Freezer": "3-6 Months"
+        }
+      },
+      {
+        "name": "Canned Tuna",
+        "expiration": {
+          "Pantry": "2-5 Years",
+          "Fridge": "5-7 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Sardines",
+        "expiration": {
+          "Pantry": "2-5 Years",
+          "Fridge": "5-7 Days",
+          "Freezer": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Turkey",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": ""
+        }
+      },
+      {
+        "name": "(Raw) Fresh Turkey",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "(Raw) Ground Turkey",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Homemade Turkey Soup",
+        "expiration": {
+          "Fridge": "5-6 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Cooked Turkey",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Turkey Salad",
+        "expiration": {
+          "Fridge": "5-6 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Thanksgiving Turkey",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Deli Turkey",
+        "expiration": {
+          "Fridge": "5-6 Days",
+          "Freezer": "1 Month"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Chicken",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Chicken",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "1 Year"
+        }
+      },
+      {
+        "name": "Cooked Chicken",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "1 Year"
+        }
+      },
+      {
+        "name": "Roasted Chicken",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Canned Chicken",
+        "expiration": {
+          "Fridge": "-",
+          "Freezer": "7 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Nuts",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Almonds ",
+        "expiration": {
+          "Pantry": "9-12 Months",
+          "Fridge": "1 Year",
+          "Freezer": "2 Years"
+        }
+      },
+      {
+        "name": "Brazil Nuts ",
+        "expiration": {
+          "Pantry": "9 Months",
+          "Fridge": "1 Year",
+          "Freezer": "1 Year"
+        }
+      },
+      {
+        "name": "Cashews",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "1 Year",
+          "Freezer": "2 Years"
+        }
+      },
+      {
+        "name": "Hazelnuts",
+        "expiration": {
+          "Pantry": "4-6 Months",
+          "Fridge": "1 Year",
+          "Freezer": "1 Year"
+        }
+      },
+      {
+        "name": "Macadamias",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "1 Year",
+          "Freezer": "2 Years"
+        }
+      },
+      {
+        "name": "Peanuts ",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "1 Year",
+          "Freezer": "2 Years"
+        }
+      },
+      {
+        "name": "Pecans ",
+        "expiration": {
+          "Pantry": "6 Months",
+          "Fridge": "1 Year",
+          "Freezer": "2 Years"
+        }
+      },
+      {
+        "name": "Pine Nuts ",
+        "expiration": {
+          "Pantry": "1-2 Months",
+          "Fridge": "3-4 Months",
+          "Freezer": "5-6 Months"
+        }
+      },
+      {
+        "name": "Pistachios",
+        "expiration": {
+          "Pantry": "3 Months",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Walnuts",
+        "expiration": {
+          "Pantry": "6 Months",
+          "Fridge": "1 Year",
+          "Freezer": "1-2 Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tofu",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Tofu",
+        "expiration": {
+          "Fridge": "3-5 Days",
+          "Freezer": "3-5 Months"
+        }
+      },
+      {
+        "name": "Tofu",
+        "expiration": {
+          "Fridge": "3-5 Days after opening, regardless of date",
+          "Freezer": "3-5 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Beans",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Dried Beans",
+        "expiration": {
+          "Pantry": "Indefinite",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Canned Beans",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Fresh Green Beans ",
+        "expiration": {
+          "Pantry": "1-2 Days",
+          "Fridge": "7-10 Days",
+          "Freezer": "Cook first"
+        }
+      },
+      {
+        "name": "Lentils (Dried)  ",
+        "expiration": {
+          "Pantry": "Indefinite",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Canned Beans",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Cooked Beans",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5 Days",
+          "Freezer": "1 Year"
+        }
+      },
+      {
+        "name": "Bean Sprouts",
+        "expiration": {
+          "Pantry": "1 Day",
+          "Fridge": "3-4 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Hummus",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "4-5 Days",
+          "Freezer": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pork",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Pork Chops",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Fresh Ground Pork",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Fresh Pork Shoulder",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Fresh Pork Loin",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Pork Sausage",
+        "expiration": {
+          "Fridge": "3-4 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Cooked Pork Shoulder/Loin/Chops/Sausage",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Ham",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Ham",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Ham",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Spam",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Spam ",
+        "expiration": {
+          "Pantry": "2-5 Years"
+        }
+      },
+      {
+        "name": "Canned Chicken ",
+        "expiration": {
+          "Pantry": "2-5 Years"
+        }
+      },
+      {
+        "name": "Canned Tuna ",
+        "expiration": {
+          "Pantry": "2-5 Years"
+        }
+      },
+      {
+        "name": "Canned Corn Beef ",
+        "expiration": {
+          "Pantry": "2-5 Years"
+        }
+      },
+      {
+        "name": "Deviled Ham ",
+        "expiration": {
+          "Pantry": "2-5 Years"
+        }
+      },
+      {
+        "name": "Canned Clams ",
+        "expiration": {
+          "Pantry": "2-5 Years"
+        }
+      },
+      {
+        "name": "Spam ",
+        "expiration": {
+          "Pantry": "7-10 Days"
+        }
+      },
+      {
+        "name": "Canned Chicken ",
+        "expiration": {
+          "Pantry": "5-7 Days"
+        }
+      },
+      {
+        "name": "Canned Tuna ",
+        "expiration": {
+          "Pantry": "5-7 Days"
+        }
+      },
+      {
+        "name": "Canned Corn Beef ",
+        "expiration": {
+          "Pantry": "7-10 Days"
+        }
+      },
+      {
+        "name": "Deviled Ham ",
+        "expiration": {
+          "Pantry": "7-10 Days"
+        }
+      },
+      {
+        "name": "Canned Clams ",
+        "expiration": {
+          "Pantry": "5-7 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bacon",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Bacon",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Bacon Bits",
+        "expiration": {
+          "Fridge": "6 Months",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Fresh Bacon",
+        "expiration": {
+          "Fridge": "1 Week",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Cooked Bacon",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Bacon Bits",
+        "expiration": {
+          "Fridge": "6 Weeks",
+          "Freezer": "6 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Beef",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Beef",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Ground Beef",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Corned Beef",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Steak",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Beef or Steak",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Ground Beef",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Canned Beef (Opened)  ",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Corned Beef",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sugar",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Granulated White Sugar",
+        "expiration": {
+          "Pantry": "Indefinitely"
+        }
+      },
+      {
+        "name": "White Sugar Cubes",
+        "expiration": {
+          "Pantry": "Indefinitely"
+        }
+      },
+      {
+        "name": "Raw Sugar",
+        "expiration": {
+          "Pantry": "Indefinitely"
+        }
+      },
+      {
+        "name": "Brown Sugar",
+        "expiration": {
+          "Pantry": "Indefinite, but Best within 2 Years"
+        }
+      },
+      {
+        "name": "Powdered Sugar",
+        "expiration": {
+          "Pantry": "Indefinite, but Best within 2 Years"
+        }
+      },
+      {
+        "name": "Sugar Substitutes",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Equal",
+        "expiration": {
+          "Pantry": "Indefinite, but best within 2 Years"
+        }
+      },
+      {
+        "name": "Sweet n Low",
+        "expiration": {
+          "Pantry": "Indefinite, but best within 2 Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Ketchup",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Prepared Ketchup",
+        "expiration": {
+          "Pantry": "1-2 Years"
+        }
+      },
+      {
+        "name": "Heinz Ketchup",
+        "expiration": {
+          "Pantry": "2 Years"
+        }
+      },
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Prepared Ketchup",
+        "expiration": {
+          "Pantry": "1 Year"
+        }
+      },
+      {
+        "name": "Heinz Ketchup",
+        "expiration": {
+          "Pantry": "1 Year"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Jam",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry (Unopened)": "Past Printed Date",
+          "Fridge (Opened)": "Past Opening Date"
+        }
+      },
+      {
+        "name": "Strawberry Jam",
+        "expiration": {
+          "Pantry (Unopened)": "6 Months - 1 Year",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Apricot Jam",
+        "expiration": {
+          "Pantry (Unopened)": "6 Months - 1 Year",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Peach Jam",
+        "expiration": {
+          "Pantry (Unopened)": "6 Months - 1 Year",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Blackberry Jam",
+        "expiration": {
+          "Pantry (Unopened)": "6 Months - 1 Year",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Homemade Jam",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "6 Months - 1 Year"
+        }
+      },
+      {
+        "name": "Low Sugar Jam",
+        "expiration": {
+          "Pantry (Unopened)": "9-12 Months",
+          "Fridge (Opened)": "8-9 Months"
+        }
+      },
+      {
+        "name": "Sugar Free Jam",
+        "expiration": {
+          "Pantry (Unopened)": "6-9 Months",
+          "Fridge (Opened)": "6-9 Months"
+        }
+      },
+      {
+        "name": "Smucker's Simply Fruit",
+        "expiration": {
+          "Pantry (Unopened)": "6-9 Months",
+          "Fridge (Opened)": "9 Months"
+        }
+      },
+      {
+        "name": "Smucker's Sugar Free Jam",
+        "expiration": {
+          "Pantry (Unopened)": "6-9 months",
+          "Fridge (Opened)": "9 Months"
+        }
+      },
+      {
+        "name": "Welch's Grape Jelly",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Orange Marmalade",
+        "expiration": {
+          "Pantry (Unopened)": "6 Months - 1 Year",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Apple Butter",
+        "expiration": {
+          "Pantry (Unopened)": "2-3 Months",
+          "Fridge (Opened)": "2-3 Months"
+        }
+      },
+      {
+        "name": "Pumpkin Butter",
+        "expiration": {
+          "Pantry (Unopened)": "2-3 Months",
+          "Fridge (Opened)": "2-3 Months"
+        }
+      },
+      {
+        "name": "Lemon Curd",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Months",
+          "Fridge (Opened)": "1-2 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Mustard",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry (Unopened)": "Past Printed Date",
+          "Fridge (Opened)": "Past Printed Date"
+        }
+      },
+      {
+        "name": "American Mustard",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Dijon Mustard",
+        "expiration": {
+          "Pantry (Unopened)": "2-3 Years",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Chinese Mustard",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "1 Year"
+        }
+      },
+      {
+        "name": "Honey Mustard",
+        "expiration": {
+          "Pantry (Unopened)": "2-3 Years",
+          "Fridge (Opened)": "1-2 Years"
+        }
+      },
+      {
+        "name": "Homemade Mustard",
+        "expiration": {
+          "Pantry (Unopened)": "1 Day",
+          "Fridge (Opened)": "1 week - 1 year"
+        }
+      },
+      {
+        "name": "Dry Mustard",
+        "expiration": {
+          "Pantry (Unopened)": "1-2 Years",
+          "Fridge (Opened)": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Honey",
+    "subItems": []
+  },
+  {
+    "title": "Oil",
+    "subItems": [
+      {
+        "name": "Avocado Oil",
+        "expiration": {
+          "Pantry": "9-12 Months",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Blended Oil",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Canola Oil",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Coconut Oil",
+        "expiration": {
+          "Pantry": "Months-Years",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Corn Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Chili Oil",
+        "expiration": {
+          "Pantry": "9-12 Months",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "EVOO(Extra Virgin Olive)  ",
+        "expiration": {
+          "Pantry": "2-3 Years",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Grape Seed Oil",
+        "expiration": {
+          "Pantry": "3 Months",
+          "Fridge": "6 Months"
+        }
+      },
+      {
+        "name": "Hazelnut Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Macadamia Nut Oil",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "2-3 Years"
+        }
+      },
+      {
+        "name": "Olive Oil",
+        "expiration": {
+          "Pantry": "2-3 Years",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Peanut Oil",
+        "expiration": {
+          "Pantry": "3 Years",
+          "Fridge": "3 Years"
+        }
+      },
+      {
+        "name": "Sesame Oil",
+        "expiration": {
+          "Pantry": "1 Years",
+          "Fridge": "2 Years"
+        }
+      },
+      {
+        "name": "Safflower Oil",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "2 Years"
+        }
+      },
+      {
+        "name": "Sunflower Oil",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "2 Years"
+        }
+      },
+      {
+        "name": "Truffle Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Vegetable Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Walnut Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Avocado Oil",
+        "expiration": {
+          "Pantry": "6-8 Months",
+          "Fridge": "9-12 Months"
+        }
+      },
+      {
+        "name": "Blended Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Canola Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Coconut Oil",
+        "expiration": {
+          "Pantry": "Month-Years",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Corn Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Chili Oil",
+        "expiration": {
+          "Pantry": "6 Months",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Extra Virgin Olive Oil (EVOO)  ",
+        "expiration": {
+          "Pantry": "2-3 Years",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Grape Seed Oil",
+        "expiration": {
+          "Pantry": "3 Months",
+          "Fridge": "6 Months"
+        }
+      },
+      {
+        "name": "Hazelnut Oil",
+        "expiration": {
+          "Pantry": "3 Months",
+          "Fridge": "9-12 Months"
+        }
+      },
+      {
+        "name": "Macadamia Nut Oil",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "2-3 Years"
+        }
+      },
+      {
+        "name": "Olive Oil",
+        "expiration": {
+          "Pantry": "2-3 Years",
+          "Fridge": "--",
+          "(Opened)": "\n"
+        }
+      },
+      {
+        "name": "Peanut Oil",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "2 Years"
+        }
+      },
+      {
+        "name": "Sesame Oil",
+        "expiration": {
+          "Pantry": "6-8 Months",
+          "Fridge": "2 Years"
+        }
+      },
+      {
+        "name": "Safflower Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1-2 Years"
+        }
+      },
+      {
+        "name": "Sunflower Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "1-2 Years"
+        }
+      },
+      {
+        "name": "Truffle Oil",
+        "expiration": {
+          "Pantry": "4-6 Months",
+          "Fridge": "6-8 Months"
+        }
+      },
+      {
+        "name": "Vegetable Oil",
+        "expiration": {
+          "Pantry": "1 Year",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Walnut Oil",
+        "expiration": {
+          "Pantry": "3-4 Months",
+          "Fridge": "6-8 Months"
+        }
+      },
+      {
+        "name": "Spray Oil Can",
+        "expiration": {
+          "Pantry": "2 Years",
+          "Fridge": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Chocolate",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "expiration": {
+          "Pantry": "2-4 Months",
+          "Fridge": "4-6 Months",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Chocolate Bars",
+        "expiration": {
+          "Pantry": "2-4 Months",
+          "Fridge": "4-6 Months",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Chocolate Truffles",
+        "expiration": {
+          "Pantry": "1-2 Weeks",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Belgian Chocolate",
+        "expiration": {
+          "Pantry": "1-2 Weeks",
+          "Fridge": "2-4 Weeks",
+          "Freezer": "2-4 Months"
+        }
+      },
+      {
+        "name": "Chocolate Chips",
+        "expiration": {
+          "Pantry": "2-4 Months",
+          "Fridge": "6-8 Months",
+          "Freezer": "2-3 Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Vinegar",
+    "subItems": [
+      {
+        "name": "White Vinegar",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Apple Cider Vinegar",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Balsamic Vinegar",
+        "expiration": {
+          "Pantry": "Indedinite"
+        }
+      },
+      {
+        "name": "Raspberry Vinegar",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Rice Wine Vinegar",
+        "expiration": {
+          "Pantry": "Indedinite"
+        }
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Salt",
+    "subItems": [
+      {
+        "name": "Salt",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hot Dogs",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Hot Dogs",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "4-6 Months"
+        }
+      },
+      {
+        "name": "Fresh Hot Dogs",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "4-6 Months"
+        }
+      },
+      {
+        "name": "Cooked Hot Dogs",
+        "expiration": {
+          "Fridge": "7 Days",
+          "Freezer": "4-6 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hummus",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Packaged Hummus",
+        "expiration": {
+          "Fridge": "3-10 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Homemade Hummus",
+        "expiration": {
+          "Fridge": "3-5 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Packaged Hummus",
+        "expiration": {
+          "Fridge": "4-6 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Homemade Hummus",
+        "expiration": {
+          "Fridge": "3-5 Days",
+          "Freezer": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Salsa",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Salsa (Jar)  ",
+        "expiration": {
+          "Pantry": "1-2 Months",
+          "Fridge": "1-2 Months"
+        }
+      },
+      {
+        "name": "Salsa",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Weeks"
+        }
+      },
+      {
+        "name": "Homemade Salsa",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-7 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Popcorn",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date\n"
+        }
+      },
+      {
+        "name": "Popcorn",
+        "expiration": {
+          "Pantry": "Indefinitely"
+        }
+      },
+      {
+        "name": "Microwave Popcorn",
+        "expiration": {
+          "Pantry": "6-8 Months"
+        }
+      },
+      {
+        "name": "Popped Popcorn",
+        "expiration": {
+          "Pantry": "2-3 Weeks"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Flour",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Flour",
+        "expiration": {
+          "Pantry": "6-8 Months"
+        }
+      },
+      {
+        "name": "Rice Flour",
+        "expiration": {
+          "Pantry": "6-8 Months"
+        }
+      },
+      {
+        "name": "Corn Flour",
+        "expiration": {
+          "Pantry": "9-12 Months"
+        }
+      },
+      {
+        "name": "Potato Flour",
+        "expiration": {
+          "Pantry": "6-8 Months"
+        }
+      },
+      {
+        "name": "Whole Wheat Flour",
+        "expiration": {
+          "Pantry": "4-6 Months"
+        }
+      },
+      {
+        "name": "Self-rising Flour",
+        "expiration": {
+          "Pantry": "4-6 Months"
+        }
+      },
+      {
+        "name": "Corn Meal",
+        "expiration": {
+          "Pantry": "1-2 Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cupcakes",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Bakery Cupcakes",
+        "expiration": {
+          "Pantry": "1-2 Days",
+          "Fridge": "2-4 Days",
+          "Freezer": "2-4 Months"
+        }
+      },
+      {
+        "name": "Cupcakes with fresh fruit",
+        "expiration": {
+          "Pantry": "1 Day",
+          "Fridge": "1-2 Days",
+          "Freezer": "2-4 Months"
+        }
+      },
+      {
+        "name": "Cupcakes with whipped cream",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Cupcakes with cream cheese",
+        "expiration": {
+          "Pantry": "1-2 Days",
+          "Fridge": "2-3 Days",
+          "Freezer": "2-4 Months"
+        }
+      },
+      {
+        "name": "Hostess Cupcakes",
+        "expiration": {
+          "Pantry": "1-2 Weeks",
+          "Fridge": "1-2 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Homemade Cupcakes",
+        "expiration": {
+          "Pantry": "1-2 Days ",
+          "Fridge": "2-4 Days",
+          "Freezer": "2-4 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cookies",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Bakery Cookies",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Freezer": "4-5 Months"
+        }
+      },
+      {
+        "name": "Packaged Cookies (Soft)  ",
+        "expiration": {
+          "Pantry": "1-2 Months",
+          "Freezer": "4-5 Months"
+        }
+      },
+      {
+        "name": "Packaged Cookies (Hard)  ",
+        "expiration": {
+          "Pantry": "1-2 Months",
+          "Freezer": "4-5 Months"
+        }
+      },
+      {
+        "name": "Packaged Cookies (Soft)  ",
+        "expiration": {
+          "Pantry": "7-10 Days",
+          "Freezer": "4-5 Months"
+        }
+      },
+      {
+        "name": "Packaged Cookies (Hard)  ",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Freezer": "4-5 Months"
+        }
+      },
+      {
+        "name": "Homemade Cookies (Soft)  ",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Freezer": "4-5 Months"
+        }
+      },
+      {
+        "name": "Homemade Cookies (Hard)  ",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Freezer": "4-5 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tortillas",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Flour Tortillas",
+        "expiration": {
+          "Pantry": "1 Week",
+          "Fridge": "3-4 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Corn Tortillas",
+        "expiration": {
+          "Pantry": "7-10 Days",
+          "Fridge": "6-8 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Spinach Tortillas",
+        "expiration": {
+          "Pantry": "1 Week",
+          "Fridge": "3-4 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Whole Wheat Tortillas ",
+        "expiration": {
+          "Pantry": "1 Week",
+          "Fridge": "3-4 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Homemade Tortillas ",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Rice",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "White Rice",
+        "expiration": {
+          "Pantry": "4-5 Years",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Oxygen Free White Rice* ",
+        "expiration": {
+          "Pantry": "25-30 Years",
+          "Fridge": "--",
+          "Freezer": "30* Years"
+        }
+      },
+      {
+        "name": "Brown Rice",
+        "expiration": {
+          "Pantry": "6-8 Months",
+          "Fridge": "8-12 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Wild Rice",
+        "expiration": {
+          "Pantry": "6-8 Months",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Minute Rice",
+        "expiration": {
+          "Pantry": "4-5 Years",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "White Rice",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Brown Rice",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "4-5 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Wild Rice",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pie",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Date",
+          "Freezer": "Past Date"
+        }
+      },
+      {
+        "name": "Fruit Pie",
+        "expiration": {
+          "Fridge": "2-3 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Pie with fresh fruit",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Cream Pie",
+        "expiration": {
+          "Fridge": "2-3 Days",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Custard Pie",
+        "expiration": {
+          "Fridge": "2-3 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Pumpkin Pie",
+        "expiration": {
+          "Fridge": "2-4 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Quiche",
+        "expiration": {
+          "Fridge": "2-4 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Pot Pie",
+        "expiration": {
+          "Fridge": "2-4 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Pie Crust Mix",
+        "expiration": {
+          "Fridge": "6-8 Weeks",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Fridge Pie Crust",
+        "expiration": {
+          "Fridge": "4-6 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Frozen Puff Pastry",
+        "expiration": {
+          "Fridge": "1-2 Days",
+          "Freezer": "8-10 Months"
+        }
+      },
+      {
+        "name": "Baked Puff Pastry",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pizza",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Date",
+          "Fridge": "Past Date",
+          "Freezer": "Past Date"
+        }
+      },
+      {
+        "name": "Dominos Pizza",
+        "expiration": {
+          "Pantry": "1 Day",
+          "Fridge": "3-5 Days",
+          "Freezer": "4-6 Months"
+        }
+      },
+      {
+        "name": "Frozen Pizza",
+        "expiration": {
+          "Pantry": "1 Day",
+          "Fridge": "3-5 Days",
+          "Freezer": "4-6 Months"
+        }
+      },
+      {
+        "name": "Homemade Pizza",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "3-5 Days",
+          "Freezer": "4-6 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pasta",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Dry Pasta",
+        "expiration": {
+          "Pantry": "1-2 Years",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Dry Noodles",
+        "expiration": {
+          "Pantry": "1-2 Years",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Fresh Pasta",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "4-5 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Fresh Noodles",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "4-5 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Cooked Pasta",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Cooked Noodles",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "7 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lasagna",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Deli Lasagna",
+        "expiration": {
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Frozen Lasagna",
+        "expiration": {
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Homemade Lasagna",
+        "expiration": {
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Pop Tarts",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Pop Tarts",
+        "expiration": {
+          "Pantry": "6-12 Months"
+        }
+      },
+      {
+        "name": "Pop Tarts",
+        "expiration": {
+          "Pantry": "1-2 Weeks"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Oatmeal",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Freezer": ""
+        }
+      },
+      {
+        "name": "Instant Oatmeal",
+        "expiration": {
+          "Pantry": "1-2 Years",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Flavored/Cream Instant Oatmeal",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "1 minute Oatmeal",
+        "expiration": {
+          "Pantry": "2-3 Years",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "5 minute Oatmeal",
+        "expiration": {
+          "Pantry": "2-3 Years",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Steel Cut Oatmeal (Irish Oatmeal)   ",
+        "expiration": {
+          "Pantry": "1-2 Years",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Oatmeal Cookies",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Freezer": "4-5 Months"
+        }
+      },
+      {
+        "name": "Prepared (Cooked) Oatmeal",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Freezer": "Not Recommended"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cereal",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Cheerios",
+        "expiration": {
+          "Pantry": "6-8 Months",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Shredded Wheat",
+        "expiration": {
+          "Pantry": "6-8 Months",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Box of Cereal",
+        "expiration": {
+          "Pantry": "6-8 Months",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Cereal",
+        "expiration": {
+          "Pantry": "4-6 Months",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Cooked Cereal",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "4-5 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cake",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Date",
+          "Fridge": "Past Date",
+          "Freezer": "Past Date"
+        }
+      },
+      {
+        "name": "Bakery Cake",
+        "expiration": {
+          "Pantry": "1-2 Days",
+          "Fridge": "2-4 Days",
+          "Freezer": "2-4 Months"
+        }
+      },
+      {
+        "name": "Cake with fresh fruit",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "2-4 Months"
+        }
+      },
+      {
+        "name": "Cake with whipped cream",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Days",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Fruit Cake",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "3-25 Years*",
+          "Freezer": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bread",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Bakery Bread",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Fridge": "Not Recommended",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Packaged Bagels (Soft)  ",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Fridge": "7-14 Days",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Bakery Bagels",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Fridge": "Not Recommended",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Packaged Bread (Soft)  ",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Fridge": "Not Recommended",
+          "Freezer": "6 Months"
+        }
+      },
+      {
+        "name": "Fridge Biscuit Dough (Pillsbury biscuits & rolls)  ",
+        "expiration": {
+          "Pantry": "2 Hours",
+          "Fridge": "1-2 Weeks",
+          "Freezer": "Not Recommended"
+        }
+      },
+      {
+        "name": "Frozen Bread Dough (Soft)  ",
+        "expiration": {
+          "Pantry": "1 Day",
+          "Fridge": "2-3 Days",
+          "Freezer": "1 Year"
+        }
+      },
+      {
+        "name": "Cooked French Toast",
+        "expiration": {
+          "Pantry": "2 Hours",
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Bread Crumbs",
+        "expiration": {
+          "Pantry": "5-6 Months",
+          "Fridge": "Not Recommended",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Croutons",
+        "expiration": {
+          "Pantry": "5-6 Months",
+          "Fridge": "Not Recommended",
+          "Freezer": "Not Recommended"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Frozen Fruit",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Frozen Fruit",
+        "expiration": {
+          "Freezer": "8-10 Months"
+        }
+      },
+      {
+        "name": "Frozen Fruit",
+        "expiration": {
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Dried Fruit",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Raisins",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Dried Cranberries",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Craisins",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Dried Cherries",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Dried Apricots",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Dried Mangoes",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Dates",
+        "expiration": {
+          "Pantry": "3-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Dried Blueberries",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Dried Plums",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Banana Chips",
+        "expiration": {
+          "Pantry": "1-2 Months",
+          "Fridge": "--",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Figs",
+        "expiration": {
+          "Pantry": "3-12 Months",
+          "Fridge": "1-2 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "Chocolate Cherries",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Fridge": "6 Months",
+          "Freezer": "1 Year"
+        }
+      },
+      {
+        "name": "Open Dried Fruit",
+        "expiration": {
+          "Pantry": "3-6 Months",
+          "Fridge": "6-12 Months",
+          "Freezer": "1* Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Strawberries",
+    "subItems": [
+      {
+        "name": "Fresh Whole Strawberries",
+        "expiration": {
+          "Pantry": "1-2 Days",
+          "Fridge": "5-7 Days",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Fresh Cut Strawberries",
+        "expiration": {
+          "Pantry": "1 Day",
+          "Fridge": "1-3 Days",
+          "Freezer": "3-4 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tomatoes",
+    "subItems": [
+      {
+        "name": "Fresh Tomatoes",
+        "expiration": {
+          "Pantry": "1 Week",
+          "Fridge": "2 Weeks"
+        }
+      },
+      {
+        "name": "Canned Tomatoes",
+        "expiration": {
+          "Pantry": "1 Year - 18 Months (Unopened)",
+          "Fridge": "7 Days (Opened)"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Oranges",
+    "subItems": [
+      {
+        "name": "Fresh Oranges",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Fridge": "1-2 Months"
+        }
+      },
+      {
+        "name": "Cut Oranges",
+        "expiration": {
+          "Pantry": "Same Day",
+          "Fridge": "1-2 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lemons",
+    "subItems": [
+      {
+        "name": "Fresh Lemons",
+        "expiration": {
+          "Pantry": "2-4 Weeks",
+          "Fridge": "1-2 Months"
+        }
+      },
+      {
+        "name": "Cut Lemons",
+        "expiration": {
+          "Pantry": "Same Day",
+          "Fridge": "2-3 Days"
+        }
+      },
+      {
+        "name": "Fresh Lemon Juice",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "2 -3 Days"
+        }
+      },
+      {
+        "name": "Lemon Juice (re-sealable bottle or plastic squeeze)  ",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "4-6 Months"
+        }
+      },
+      {
+        "name": "Fresh Squeezed Lemonade",
+        "expiration": {
+          "Pantry": "Same Day",
+          "Fridge": "1 Week"
+        }
+      },
+      {
+        "name": "Processed Lemonade (Unopened)  ",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "2 Weeks"
+        }
+      },
+      {
+        "name": "Processed Lemonade (Opened)  ",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1 Week"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Grapes",
+    "subItems": [
+      {
+        "name": "Grapes",
+        "expiration": {
+          "Pantry": "3-5 Days",
+          "Fridge": "5-10 Days",
+          "Freezer": "3-5 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Blueberries",
+    "subItems": [
+      {
+        "name": "Fresh Whole Blueberries",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Fridge": "5-10 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bananas",
+    "subItems": [
+      {
+        "name": "Fresh Bananas",
+        "expiration": {
+          "Pantry": "2-7 Days",
+          "Fridge": "2-9 Days",
+          "Freezer": "2-3 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Avocadoes",
+    "subItems": [
+      {
+        "name": "Fresh Avocados",
+        "expiration": {
+          "Pantry": "3-4 Days",
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Homemade Guacamole",
+        "expiration": {
+          "Pantry": "3-4 Hours",
+          "Fridge": "1-2 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Infant Formula",
+    "subItems": [
+      {
+        "name": "Infant/Baby Formula Liquid  until",
+        "expiration": {
+          "Unopened in Pantry": "use by date",
+          "Opened in Fridge": "24 Hours once opened (or Manufacturer Instructions)"
+        }
+      },
+      {
+        "name": "Infant/Baby Formula Powder  until",
+        "expiration": {
+          "Unopened in Pantry": "use by date",
+          "Opened in Fridge": "24 Hours once mixed (or Manufacturer Instructions)"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Gatorade",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Gatorade bottles",
+        "expiration": {
+          "Pantry": "9 Months"
+        }
+      },
+      {
+        "name": "Powerade",
+        "expiration": {
+          "Pantry": "9 Months"
+        }
+      },
+      {
+        "name": "Propel",
+        "expiration": {
+          "Pantry": "9 Months"
+        }
+      },
+      {
+        "name": "Vitamin Water",
+        "expiration": {
+          "Pantry": "9 Months"
+        }
+      },
+      {
+        "name": "Gatorade Dry Powder",
+        "expiration": {
+          "Pantry": "6-8 Months"
+        }
+      },
+      {
+        "name": "All Sport Drinks",
+        "expiration": {
+          "Pantry": "3-5 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Egg Nog",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "\n"
+        }
+      },
+      {
+        "name": "Canned Eggnog",
+        "expiration": {
+          "Fridge": "4-5 Months"
+        }
+      },
+      {
+        "name": "Eggnog",
+        "expiration": {
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "Homemade Eggnog",
+        "expiration": {
+          "Fridge": "2-3 Days"
+        }
+      },
+      {
+        "name": "Reduced Fat Eggnog",
+        "expiration": {
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "All Eggnogs",
+        "expiration": {
+          "Fridge": "5 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Water",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "",
+          "Fridge": ""
+        }
+      },
+      {
+        "name": "Bottled Water",
+        "expiration": {
+          "Pantry": "2+ Years",
+          "Fridge": "2+ Years"
+        }
+      },
+      {
+        "name": "Flavored Water",
+        "expiration": {
+          "Pantry": "9 Months",
+          "Fridge": "9 Months"
+        }
+      },
+      {
+        "name": "Vitamin Water",
+        "expiration": {
+          "Pantry": "9 Months",
+          "Fridge": "9 Months"
+        }
+      },
+      {
+        "name": "Sparkling Water",
+        "expiration": {
+          "Pantry": "1+ Years",
+          "Fridge": "1+ Years"
+        }
+      },
+      {
+        "name": "Coconut Water",
+        "expiration": {
+          "Pantry": "Depends on packaging & preservatives",
+          "Fridge": "1 Year"
+        }
+      },
+      {
+        "name": "Sparking Water",
+        "expiration": {
+          "Pantry": "2-3 Hours",
+          "Fridge": "2-3 Days"
+        }
+      },
+      {
+        "name": "Bottled Water",
+        "expiration": {
+          "Pantry": "2-3 Hours",
+          "Fridge": "3-5 Days"
+        }
+      },
+      {
+        "name": "Coconut Water",
+        "expiration": {
+          "Pantry": "2 Hours",
+          "Fridge": "24-48 Hours"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tea",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Date",
+          "Freezer": "Past Date"
+        }
+      },
+      {
+        "name": "Packaged Tea",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Freezer": "1-2 Years"
+        }
+      },
+      {
+        "name": "Loose Tea",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Freezer": "1-2 Years"
+        }
+      },
+      {
+        "name": "Powder Iced Tea Mix",
+        "expiration": {
+          "Pantry": "6-12 Months",
+          "Freezer": "1-2 Years"
+        }
+      },
+      {
+        "name": "Prepared Tea",
+        "expiration": {
+          "Pantry": "3-5 Days",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Soda",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Coca Cola",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "Diet* Pepsi",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "7-Up",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "Diet* Coke Can",
+        "expiration": {
+          "Pantry": "1 Day",
+          "Fridge": "1 Day"
+        }
+      },
+      {
+        "name": "Pepsi Bottles",
+        "expiration": {
+          "Pantry": "1-3 Days",
+          "Fridge": "2-5 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Coffee",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Ground Coffee",
+        "expiration": {
+          "Pantry": "3-5 Months",
+          "Freezer": "1-2 Years"
+        }
+      },
+      {
+        "name": "Whole Bean Coffee",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Freezer": "2-3 Years"
+        }
+      },
+      {
+        "name": "Instant Coffee",
+        "expiration": {
+          "Pantry": "2-20 Years",
+          "Freezer": "Indefinite"
+        }
+      },
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Once Opened",
+          "Freezer": "Once Opened"
+        }
+      },
+      {
+        "name": "Ground Coffee",
+        "expiration": {
+          "Pantry": "3-5 Months",
+          "Freezer": "3-5 Months"
+        }
+      },
+      {
+        "name": "Coffee Beans",
+        "expiration": {
+          "Pantry": "6 Months",
+          "Freezer": "2 Years"
+        }
+      },
+      {
+        "name": "Instant Coffee (freeze dried)  ",
+        "expiration": {
+          "Pantry": "2-20 Years",
+          "Freezer": "Indefinite"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Wine",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Bottled White Wine",
+        "expiration": {
+          "Pantry": "1-2 Years"
+        }
+      },
+      {
+        "name": "Bottled Red Wine",
+        "expiration": {
+          "Pantry": "2-3 Years"
+        }
+      },
+      {
+        "name": "Wine juice boxes",
+        "expiration": {
+          "Pantry": "1 Year"
+        }
+      },
+      {
+        "name": "Fine Wine",
+        "expiration": {
+          "Pantry": "Decades in a wine cellar"
+        }
+      },
+      {
+        "name": "White Wine",
+        "expiration": {
+          "Pantry": "1-3 Days"
+        }
+      },
+      {
+        "name": "Red Wine",
+        "expiration": {
+          "Pantry": "1-2 Weeks"
+        }
+      },
+      {
+        "name": "Cooking Wine",
+        "expiration": {
+          "Pantry": "1-2 Months"
+        }
+      },
+      {
+        "name": "Wine juice boxes",
+        "expiration": {
+          "Pantry": "6-12 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Alcohol",
+    "subItems": [
+      {
+        "name": "Vodka",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Tequila",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Rum",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Gin",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Whiskey",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      },
+      {
+        "name": "Brandy",
+        "expiration": {
+          "Pantry": "Indefinite"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Champagne",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Cellar/Fridge": "Past Purchase"
+        }
+      },
+      {
+        "name": "Champagne",
+        "expiration": {
+          "Cellar/Fridge": "3-4 Years"
+        }
+      },
+      {
+        "name": "Sparkling Wine",
+        "expiration": {
+          "Cellar/Fridge": "3-4 Years"
+        }
+      },
+      {
+        "name": "Vintage Champagne",
+        "expiration": {
+          "Cellar/Fridge": "20+ Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Beer",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Date",
+          "Fridge": "Past Date"
+        }
+      },
+      {
+        "name": "Canned Beer",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6 months-2 Years"
+        }
+      },
+      {
+        "name": "Bottled Beer",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6 months-2 Years"
+        }
+      },
+      {
+        "name": "Homemade Beer",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6 months-2 Years"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Fruit Juice",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Pantry": "Past Printed Date",
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Fresh Apple Cider",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Bottled Apple Juice",
+        "expiration": {
+          "Pantry": "2-3 Months",
+          "Fridge": "2-3 Months"
+        }
+      },
+      {
+        "name": "Canned Apple Juice",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "Bottled Grape Juice",
+        "expiration": {
+          "Pantry": "2-3 Months",
+          "Fridge": "2-3 Months"
+        }
+      },
+      {
+        "name": "Orange Juice",
+        "expiration": {
+          "Pantry": "--",
+          "Fridge": "1-2 Weeks"
+        }
+      },
+      {
+        "name": "Canned Hawaiian Punch",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "Cranberry Juice Cocktail",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "Apple juice boxes",
+        "expiration": {
+          "Pantry": "2-3 Months",
+          "Fridge": "2-3 Months"
+        }
+      },
+      {
+        "name": "Capri Sun Juice Boxes",
+        "expiration": {
+          "Pantry": "6-9 Months",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "Minute Maid Juice Boxes",
+        "expiration": {
+          "Pantry": "2-3 Months",
+          "Fridge": "2-3 Months"
+        }
+      },
+      {
+        "name": "Fresh Squeezed Citrus Juice",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Treetop Apple Juice",
+        "expiration": {
+          "Pantry": "7-10 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Welch's Grape Juice",
+        "expiration": {
+          "Pantry": "7-10 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Orange Juice",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Grapefruit Juice",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Mango Juice",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Guava Juice",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Ocean Spray Cranberry Juice",
+        "expiration": {
+          "Pantry": "2-3 Weeks",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Fruit Juice Concentrate",
+        "expiration": {
+          "Pantry": "5-10 Days",
+          "Fridge": "6-9 Months"
+        }
+      },
+      {
+        "name": "Minute Maid Juice Boxes",
+        "expiration": {
+          "Pantry": "2-3 Days",
+          "Fridge": "--"
+        }
+      },
+      {
+        "name": "Capri Sun juice Boxes",
+        "expiration": {
+          "Pantry": "5-7 Days",
+          "Fridge": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Yogurt",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": " Past Printed Date",
+          "Freezer": " Past Printed Date"
+        }
+      },
+      {
+        "name": "Frozen Yogurt",
+        "expiration": {
+          "Fridge": "--",
+          "Freezer": "2-3 Months"
+        }
+      },
+      {
+        "name": "Drinkable Yogurt",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "1-2 Months"
+        }
+      },
+      {
+        "name": "Greek Yogurt",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "1-2 Months"
+        }
+      },
+      {
+        "name": "Reduced Fat Yogurt",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "1-2 Months"
+        }
+      },
+      {
+        "name": "Yogurt",
+        "expiration": {
+          "Fridge": "2-3 Weeks",
+          "Freezer": "1-2 Months"
+        }
+      },
+      {
+        "name": "Yogurt With Fruit",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "1-2 Months"
+        }
+      },
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": " Past Printed Date"
+        }
+      },
+      {
+        "name": "All Opened Yogurt",
+        "expiration": {
+          "Fridge": "1 Week",
+          "Freezer": "1 Month"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Butter",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Butter",
+        "expiration": {
+          "Fridge": "1 Month",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Butter with oil",
+        "expiration": {
+          "Fridge": "2 Months",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Butter",
+        "expiration": {
+          "Fridge": "2 Weeks",
+          "Freezer": "6-9 Months"
+        }
+      },
+      {
+        "name": "Butter with oil",
+        "expiration": {
+          "Fridge": "2-3 Weeks",
+          "Freezer": "6-9 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Milk",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Lactose-Free Milk",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Non-Fat Milk",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      },
+      {
+        "name": "Skim Milk",
+        "expiration": {
+          "Fridge": "7 Days"
+        }
+      },
+      {
+        "name": "Reduced-Fat Milk",
+        "expiration": {
+          "Fridge": "7 Days"
+        }
+      },
+      {
+        "name": "Whole Milk",
+        "expiration": {
+          "Fridge": "5-7 Days"
+        }
+      },
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "All Milk",
+        "expiration": {
+          "Fridge": "5-7 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Ice Cream",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Ice Cream",
+        "expiration": {
+          "Freezer": "2-3 Months"
+        }
+      },
+      {
+        "name": "Sherbert",
+        "expiration": {
+          "Freezer": "3-4 Months"
+        }
+      },
+      {
+        "name": "Ice Cream",
+        "expiration": {
+          "Freezer": "1-2 Months"
+        }
+      },
+      {
+        "name": "Sherbert",
+        "expiration": {
+          "Freezer": "2-3 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Hard Boiled Eggs",
+    "subItems": [
+      {
+        "name": "(Shells On)",
+        "expiration": {
+          "Fridge": "Past Boiled Date"
+        }
+      },
+      {
+        "name": "Hard Boiled Eggs",
+        "expiration": {
+          "Fridge": "7 Days"
+        }
+      },
+      {
+        "name": "(Peeled)",
+        "expiration": {
+          "Fridge": "Past Boiled Date"
+        }
+      },
+      {
+        "name": "Hard Boiled Eggs",
+        "expiration": {
+          "Fridge": "5 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Eggs",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Sell By Date"
+        }
+      },
+      {
+        "name": "Fresh Eggs are good ",
+        "expiration": {
+          "Fridge": "3-4 Weeks"
+        }
+      },
+      {
+        "name": "Egg Substitutes are good ",
+        "expiration": {
+          "Fridge": "3-4 Days"
+        }
+      },
+      {
+        "name": "Egg Whites are good ",
+        "expiration": {
+          "Fridge": "2-4 Days"
+        }
+      },
+      {
+        "name": "Egg Yolks are good ",
+        "expiration": {
+          "Fridge": "1-2 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cream Cheese",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Cream Cheese (Foil Wrapped)",
+        "expiration": {
+          "Fridge": "3-4 Weeks",
+          "Freezer": "2 Months"
+        }
+      },
+      {
+        "name": "Cream Cheese (Plastic Container)",
+        "expiration": {
+          "Fridge": "3-4 Weeks",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Flavored Cream Cheese",
+        "expiration": {
+          "Fridge": "3-4 Weeks",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Reduced Fat Cream Cheese ",
+        "expiration": {
+          "Fridge": "2-3 Weeks",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "Neufchatel Cheese ",
+        "expiration": {
+          "Fridge": "2-3 Weeks",
+          "Freezer": "--"
+        }
+      },
+      {
+        "name": "All Cream Cheese  ",
+        "expiration": {
+          "Fridge": "1-2 Weeks",
+          "Freezer": "--"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Sour Cream",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Sour Cream ",
+        "expiration": {
+          "Fridge": "1-2 weeks"
+        }
+      },
+      {
+        "name": "Reduced Fat Sour Cream ",
+        "expiration": {
+          "Fridge": "1-2 weeks"
+        }
+      },
+      {
+        "name": "Sour Cream Dip ",
+        "expiration": {
+          "Fridge": "2 weeks"
+        }
+      },
+      {
+        "name": "All Sour Creams ",
+        "expiration": {
+          "Fridge": "7-10 Days"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cheese",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": " Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Hard Cheese (Parmesan, Asiago, Romano)  ",
+        "expiration": {
+          "Fridge": "2-4 Months",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Shredded Hard Cheese",
+        "expiration": {
+          "Fridge": "1-2 Months",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Semi-Hard Cheese Chunk (Cheddar, Swiss)  ",
+        "expiration": {
+          "Fridge": "1-2 Months",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Sliced Semi-Hard Cheese",
+        "expiration": {
+          "Fridge": "1 Month",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Hard Cheese Chunk (Parmesan, Asiago, Romano)  ",
+        "expiration": {
+          "Fridge": "3-6 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Shredded Hard Cheese ",
+        "expiration": {
+          "Fridge": "3-4 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Semi-Hard Cheese Chunk",
+        "expiration": {
+          "Fridge": "3-6 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      },
+      {
+        "name": "Sliced Semi-Hard Cheese ",
+        "expiration": {
+          "Fridge": "2 Weeks",
+          "Freezer": "6-8 Months"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Cottage Cheese",
+    "subItems": [
+      {
+        "name": "",
+        "expiration": {
+          "Fridge": "Past Printed Date",
+          "Freezer": "Past Printed Date"
+        }
+      },
+      {
+        "name": "Cottage Cheese ",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "3 Months"
+        }
+      },
+      {
+        "name": "Ricotta Cheese ",
+        "expiration": {
+          "Fridge": "7-10 Days",
+          "Freezer": "3 Months"
+        }
+      },
+      {
+        "name": "Cottage Cheese ",
+        "expiration": {
+          "Fridge": "5-7 Days",
+          "Freezer": "2-3 Months"
+        }
+      },
+      {
+        "name": "Ricotta Cheese ",
+        "expiration": {
+          "Fridge": "5-7 Days",
+          "Freezer": "2-3 Months"
+        }
+      }
+    ]
+  }
+]
